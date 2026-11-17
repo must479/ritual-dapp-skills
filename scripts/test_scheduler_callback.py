@@ -25,7 +25,7 @@ interface Vm {
 contract CallbackTest {
     Vm constant vm = Vm(address(uint160(uint256(keccak256("hevm cheat code")))));
     MyScheduled consumer;
-    address constant SCHEDULER = 0x4E0abeE2233D73E66382b45244F7459B34E1490E;
+    address constant SCHEDULER = 0x2D815240A61731c75Fa01b2793E1D3eD09F289d0;
     function setUp() public { consumer = new MyScheduled(); }
     function testRejectsForeignCaller() public {
         vm.expectRevert(bytes("only scheduler"));
