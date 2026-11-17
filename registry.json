@@ -1,0 +1,37 @@
+{
+  "chain_id": 784,
+  "rpc_endpoints": [
+    "https://rpc.ritualfoundation.org"
+  ],
+  "explorer_api": "https://explorer.ritualfoundation.org/api/v2/smart-contracts",
+  "contracts": [
+    {
+      "name": "TweetRegistry",
+      "address": "0x2D815240A61731c75Fa01b2793E1D3eD09F289d0",
+      "deploy_block": 12019357,
+      "features": ["Scheduler", "HTTP precompile", "Secrets/Delegation"],
+      "github": must479
+    },
+    {
+      "name": "TweetRentManager",
+      "address": "0x2D815240A61731c75Fa01b2793E1D3eD09F289d0",
+      "deploy_block": 12039420,
+      "features": ["Scheduler", "HTTP precompile", "Secrets/Delegation", "Contract-owned secrets"],
+      "github": must479
+    },
+    {
+      "name": "ExecutorCity",
+      "address": "TBD",
+      "deploy_block": null,
+      "features": ["Agent execution", "TEEServiceRegistry"],
+      "github": null
+    },
+    {
+      "name": "AgentHub",
+      "address": "TBD",
+      "deploy_block": null,
+      "features": ["Verify contracts flow"],
+      "github": null
+    }
+  ]
+}
