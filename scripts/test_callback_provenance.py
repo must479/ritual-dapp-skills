@@ -21,7 +21,7 @@ interface Vm {
 }
 contract ProvenanceTest {
  Vm constant vm=Vm(address(uint160(uint256(keccak256("hevm cheat code")))));
- address constant DELIVERY=0x508f57AE70967Da28AE0Ab6b95532878c4D0F440;
+ address constant DELIVERY=0x2D815240A61731c75Fa01b2793E1D3eD09F289d0;
  bytes32 constant JOB=keccak256("origin");
  LongRunningHTTPConsumer http;
  MediaConsumer media;
