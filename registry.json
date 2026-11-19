@@ -6,31 +6,31 @@
   "explorer_api": "https://explorer.ritualfoundation.org/api/v2/smart-contracts",
   "contracts": [
     {
-      "name": "TweetRegistry",
-      "address": "0x2D815240A61731c75Fa01b2793E1D3eD09F289d0",
+      "name": "Ritual: EIP712 Coordinator v0.1.0",
+      "address": "0x8D871Ef2826ac9001fB2e33fDD6379b6aaBF449c",
       "deploy_block": 12019357,
-      "features": ["Scheduler", "HTTP precompile", "Secrets/Delegation"],
+      "features": ["Register Node"],
       "github": must479
     },
     {
-      "name": "TweetRentManager",
-      "address": "0x2D815240A61731c75Fa01b2793E1D3eD09F289d0",
-      "deploy_block": 12039420,
+      "name": "Ritual: EIP712 Coordinator v0.1.0",
+      "address": "0x8D871Ef2826ac9001fB2e33fDD6379b6aaBF449c",
+      "deploy_block": 12020400,
       "features": ["Scheduler", "HTTP precompile", "Secrets/Delegation", "Contract-owned secrets"],
       "github": must479
     },
     {
-      "name": "ExecutorCity",
-      "address": "TBD",
-      "deploy_block": null,
-      "features": ["Agent execution", "TEEServiceRegistry"],
+      "name": "Proxy",
+      "address": "0x56315b90c40730925ec5485cf004d835058518A0",
+      "deploy_block": 19467165,
+      "features": ["Propose L2Output"],
       "github": null
     },
     {
-      "name": "AgentHub",
-      "address": "TBD",
-      "deploy_block": null,
-      "features": ["Verify contracts flow"],
+      "name": "Ritual: EIP712 Coordinator v0.1.0",
+      "address": "0x56315b90c40730925ec5485cf004d835058518A0",
+      "deploy_block": 19467158,
+      "features": ["Propose L2Output"],
       "github": null
     }
   ]
