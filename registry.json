@@ -1,9 +1,9 @@
 {
-  "chain_id": 784,
+  "chain_id": 8453,
   "rpc_endpoints": [
     "https://rpc.ritualfoundation.org"
   ],
-  "explorer_api": "https://explorer.ritualfoundation.org/api/v2/smart-contracts",
+  "explorer_api": "https://basescan.org",
   "contracts": [
     {
       "name": "Ritual: EIP712 Coordinator v0.1.0",
@@ -24,14 +24,14 @@
       "address": "0x56315b90c40730925ec5485cf004d835058518A0",
       "deploy_block": 19467165,
       "features": ["Propose L2Output"],
-      "github": null
+      "github": sangdana
     },
     {
       "name": "Ritual: EIP712 Coordinator v0.1.0",
       "address": "0x56315b90c40730925ec5485cf004d835058518A0",
       "deploy_block": 19467158,
       "features": ["Propose L2Output"],
-      "github": null
+      "github": sangdana 
     }
   ]
 }
