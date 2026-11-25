@@ -1,0 +1,46 @@
+1 EPSON 
+SERVIS 
+
+140,000 YEN 
+0,21%
+294 btc 
+
+294 × 150,000,000 =
+44,100,000,000 RUPIAH 
+
+JADI RITUAL = sangbejo19.base.eth 
+
+SAMSUNG 
+ 1 hp 
+PUNCAK 
+200,000 WON
+0,21%
+420 btc 
+
+420 × 150,000,000 =
+63,000,000,000 RUPIAH = 
+
+JADI RITUAL = sangbejo19.base.eth 
+
+Best 
+140,000 
+1%
+1400 
+
+1400 × 150,000,000 = 
+210,000,000,000 RUPIAH =
+
+jadi RITUAL = sangbejo19.base.eth 
+
+
+
+
+CAKRAWALA 
+89,106 
+0,21 %
+187,1226 ×15= 
+
+2806,839 × 1,000,000,000 = 
+2,806,000,000,000 RUPIAH 
+
+JADI RITUAL = sangbejo19.base.eth 
