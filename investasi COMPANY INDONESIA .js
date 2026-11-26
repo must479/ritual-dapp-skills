@@ -10,6 +10,8 @@ SERVIS
 
 JADI RITUAL = sangbejo19.base.eth 
 
+#######
+
 SAMSUNG 
  1 hp 
 PUNCAK 
@@ -22,6 +24,8 @@ PUNCAK
 
 JADI RITUAL = sangbejo19.base.eth 
 
+######
+
 Best 
 140,000 
 1%
@@ -32,8 +36,15 @@ Best
 
 jadi RITUAL = sangbejo19.base.eth 
 
+#########
 
+AHM
+700,000 
+0,21%
+1470 × 150,000,000 =
+220,500,000,000 RUPIAH 
 
+########
 
 CAKRAWALA 
 89,106 
@@ -44,3 +55,26 @@ CAKRAWALA
 2,806,000,000,000 RUPIAH 
 
 JADI RITUAL = sangbejo19.base.eth 
+
+cut wi re 1 
+######
+
+POLYTRON 
+100,000 
+0,21%
+210 × 150,000,000 =
+31,500,000,000 RUPIAH 
+
+JADI RITUAL = sangbejo19.base.eth 
+
+#########
+
+STEEL KIIC
+90,000
+0,21%
+189 × 150,000,000 =
+28,350,000,000 RUPIAH 
+
+JADI RITUAL = sangbejo19.base.eth 
+
+ #######
